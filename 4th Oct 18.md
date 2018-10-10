@@ -1384,7 +1384,7 @@ Answer:  C
 Drag and drop the set commands from the left into the order in which they are evaluated in a route-map for policy-based routing on the right  
 ![exhibit][q109]
 
-Answer: A: 2, B:1, C:4, D:3
+Answer: A: 4, B:2, C:3, D:1
 
 ---
 
